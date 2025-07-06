@@ -1,8 +1,7 @@
 Hey! Ich bin Yassein Rashwan.
 
-💻 Informatik Student an der Uni Tübingen />
-👨‍💻 Software Entwickler, Tester und Qualitätssicherung />
-📽️ Viel Spaß beim Stöbern <>
+# 💫 About Me:
+💻 Informatik Student an der Uni Tübingen<br>👨‍💻 Software Entwickler, Tester und Qualitätssicherung<br>📽️ Viel Spaß beim Stöbern
 
 
 # 💻 Tech Stack:
@@ -14,6 +13,3 @@ Hey! Ich bin Yassein Rashwan.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rash2213&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
