@@ -1,7 +1,7 @@
 Hey! Ich bin Yassein Rashwan.
 
 # 💫 About Me:
-💻 Informatik Student an der Uni Tübingen<br>👨‍💻 Software Entwickler (DevOps) <br>📽️ Viel Spaß beim Stöbern
+💻 Informatik Student an der Uni Tübingen<br>👨‍💻 Software Entwickler <br>📽️ Viel Spaß beim Stöbern
 
 
 # 💻 Tech Stack:
